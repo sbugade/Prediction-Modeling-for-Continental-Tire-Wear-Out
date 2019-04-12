@@ -1,0 +1,12 @@
+ID,Task Description,Hours,Task Priority,Sprint,Task Status
+1,"Requirement Gathering, user stories for FiTS data and use cases based on it ",TBD,High,1,Started
+2,Pre-processing Raw Data by removing or checking null or blank values,2,Moderate,2,Started
+3,Develop Data upload API,2,High ,2,Not yet started
+4,Ideas on user interface development which will be shown to business manager and tire engineer,4,High,2,Not yet started
+Restrospective Meeting,,,,,
+5,Database system to store defective tire information so that the data is secured,5,Moderate,3,Not yet started
+6,Develop the search functionality along with graph representation,6,Moderate,3,Not yet started
+7,Developing calculation logic required for API integration,6,High,3,Not yet started
+8,Developing final dashboard with all modifications,3,High,3,Not yet started
+9,Feedback from business manager for the changes ,TBD,High,3,Not yet started
+10,Performing necessary changes to build final product,TBD,High,3,Not yet started
